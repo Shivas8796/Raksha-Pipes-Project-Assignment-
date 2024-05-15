@@ -38,10 +38,9 @@ To create the SQL database:
 ## Setup Instructions
 1. *Clone the Repository:* git clone [https://github.com/username/Raksha_Pipes_Business_Analyst.git](https://github.com/Shivas8796/Raksha_Pipes_Business_Analyst/tree/main)
 2. *Install Dependencies:* pip install -r requirements.txt
-3. *Run Data Generation Script:* python data_generation/RPipes_cds01_045
-.py
-4. *Setup MySQL Database:* https://github.com/Shivas8796/Raksha_Pipes_Business_Analyst/tree/main/Database_Scripting
-5. *Open Power BI Dashboard:*https://github.com/Shivas8796/Raksha_Pipes_Business_Analyst/tree/main/Dashboard
+3. *Run Data Generation Script:* https://github.com/Shivas8796/Raksha_Pipes_Business_Analyst/tree/02fd07687f9aafc9489cd73f2f0dfbefb7e4f94d/Data_Generation
+4. *Setup MySQL Database:* https://github.com/Shivas8796/Raksha_Pipes_Business_Analyst/tree/02fd07687f9aafc9489cd73f2f0dfbefb7e4f94d/Database_Scripting
+5. *Open Power BI Dashboard:*https://github.com/Shivas8796/Raksha_Pipes_Business_Analyst/tree/02fd07687f9aafc9489cd73f2f0dfbefb7e4f94d/Dashboard
    
 ## Presentation
 - A brief presentation summarizing the project's objectives, methodologies, and outcomes. has been attached in this github repository .
