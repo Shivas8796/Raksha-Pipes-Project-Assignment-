@@ -36,9 +36,10 @@ To create the SQL database:
 - Arranged visualizations on the dashboard canvas to provide insights into key metrics and trends.
 - 
 ## Setup Instructions
-1. *Clone the Repository:* git clone https://github.com/username/Raksha_Pipes_Business_Analyst.git
+1. *Clone the Repository:* git clone [https://github.com/username/Raksha_Pipes_Business_Analyst.git](https://github.com/Shivas8796/Raksha_Pipes_Business_Analyst/tree/main)
 2. *Install Dependencies:* pip install -r requirements.txt
-3. *Run Data Generation Script:* python data_generation/generate_data.py
+3. *Run Data Generation Script:* python data_generation/RPipes_cds01_045
+.py
 4. *Setup MySQL Database:* Run the SQL scripts to create and populate the database.
 5. *Open Power BI Dashboard:* Follow instructions to link the MySQL database and open the dashboard file.
    
