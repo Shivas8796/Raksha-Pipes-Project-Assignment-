@@ -40,7 +40,7 @@ To create the SQL database:
 2. *Install Dependencies:* pip install -r requirements.txt
 3. *Run Data Generation Script:* python data_generation/RPipes_cds01_045
 .py
-4. *Setup MySQL Database:* Run the SQL scripts to create and populate the database.
+4. *Setup MySQL Database:* https://github.com/Shivas8796/Raksha_Pipes_Business_Analyst/tree/main/Database_Scripting
 5. *Open Power BI Dashboard:* Follow instructions to link the MySQL database and open the dashboard file.
    
 ## Presentation
