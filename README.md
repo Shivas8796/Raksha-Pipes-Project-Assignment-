@@ -41,7 +41,7 @@ To create the SQL database:
 3. *Run Data Generation Script:* python data_generation/RPipes_cds01_045
 .py
 4. *Setup MySQL Database:* https://github.com/Shivas8796/Raksha_Pipes_Business_Analyst/tree/main/Database_Scripting
-5. *Open Power BI Dashboard:* Follow instructions to link the MySQL database and open the dashboard file.
+5. *Open Power BI Dashboard:*https://github.com/Shivas8796/Raksha_Pipes_Business_Analyst/tree/main/Dashboard
    
 ## Presentation
 - A brief presentation summarizing the project's objectives, methodologies, and outcomes. has been attached in this github repository .
